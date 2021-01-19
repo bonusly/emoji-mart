@@ -1,7 +1,5 @@
 .DS_Store
 node_modules/
-dist-es/
-dist-modern/
 stats.json
 report.html
 package-lock.json
